@@ -2,7 +2,7 @@
 # about: Tracks user post activity and shows summary in profile
 # version: 0.1
 # authors: Gaurav ks
-# url: https://github.com/user-name/user-activity-tracker
+# url: https://github.com/gauravksandan/user-activity-tracker.git
 
 enabled_site_setting :user_activity_tracker_enabled
 
